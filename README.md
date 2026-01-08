@@ -140,8 +140,11 @@ The following dashboards were created to communicate insights effectively:
 
 -	KPI Dashboard: Executive summary of revenue, profit, orders, quantity sold, and profit margin
 
-![]()
+![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Kpi%20dashboard.png)
+
 -	Product Category Dashboard: Performance comparison by revenue, profit, and quantity
+
+![]()
 -	Sales Trend Dashboard: Revenue and profit trends over time
 -	Product Analysis Dashboard: Top 5 and bottom 5 products by revenue
 
