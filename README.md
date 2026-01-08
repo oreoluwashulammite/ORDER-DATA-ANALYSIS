@@ -44,8 +44,8 @@ The ojectives of this analysis are to:
 ---
 ### Expected Outcome
 
-The expected outcomes include:
-- Clear understanding of overall sales performance
+At the end of this project:
+- Key business performance metrics are clearly defined
 -	Identification of products driving the most sales
 -	Visibility into sales trends and patterns
 -	Actionable insights for business improvement
@@ -75,58 +75,76 @@ The dataset contains order-level transactional data and was used strictly for ed
 
 ---
 
-### Tools Used
-- Microsoft Excel  
-- Pivot Tables  
-- Charts  
-- Interactive Dashboards  
-
----
-
 ## Data Cleaning and Processing
+
+Data cleaning and preparation were performed using Microsoft Excel
+
 - Removed unnecessary and empty columns  
 - Checked for missing and duplicate records  
 - Ensured correct formatting for dates and numerical values  
-- Verified calculated fields such as revenue, profit, and quantity  
+- Verified calculated fields such as revenue, profit, and quantity
+The dataset was confirmed to be clean and suitable for analysis
 
 ---
 
-## Data Analysis
-The analysis was performed using pivot tables and Excel formulas to:
-- Calculate key performance indicators (KPIs)
-- Analyze sales by product and category
-- Identify top and bottom performing products
-- Examine sales trends across time periods
+# Data Analysis and insights
+### Overall Business Performance (KPI Dashboard)
+
+The KPI analysis provides a high-level summary of business performance.
+
+Insights:
+-	The business generated strong total revenue and profit.
+-	A profit margin of approximately 46.5% indicates efficient cost management.
+-	Order volume and quantity sold reflect consistent customer demand.
+
+
+
+### Product Category Performance
+
+Product category analysis highlights differences in performance across categories.
+
+Insights:
+-	Technology is the most profitable category, generating the highest revenue and profit.
+-	Office Supplies records the highest order quantity but lower profitability.
+-	Furniture is the lowest-performing category across revenue, profit, and quantity.
+
+This shows that high sales volume does not always equal high profitability.
+
+
+
+### Sales Trend Analysis
+
+Sales trends were analyzed across time to identify patterns and seasonality.
+
+Insights:
+-	Sales fluctuate across months and quarters, indicating seasonal demand patterns.
+-	Certain years and quarters consistently outperform others.
+-	Sales performance varies by day of the week, supporting operational planning.
+
+
+
+### Product Performance Analysis (Top & Bottom Products)
+
+Product-level analysis identifies revenue concentration.
+
+Insights:
+-	A small number of products contribute significantly to total revenue.
+-	Bottom-performing products generate minimal revenue and may require review.
+-	Revenue concentration highlights opportunities for focused marketing and inventory optimization.
 
 ---
 
 ## Data Visualization
 
-### KPI Dashboard
-![KPI Dashboard](Dashboard_Screenshots/KPI_Dashboard.png)
+The following dashboards were created to communicate insights effectively:
 
-Provides an executive summary of total revenue, profit, orders, quantity sold, and profit margin, with interactive filters for deeper analysis.
+-	KPI Dashboard: Executive summary of revenue, profit, orders, quantity sold, and profit margin
 
----
+![]()
+-	Product Category Dashboard: Performance comparison by revenue, profit, and quantity
+-	Sales Trend Dashboard: Revenue and profit trends over time
+-	Product Analysis Dashboard: Top 5 and bottom 5 products by revenue
 
-### Product Category Analysis
-![Product Category Dashboard](Dashboard_Screenshots/Product_Category_Dashboard.png)
-
-Compares performance across product categories based on revenue, profit, and order quantity.
-
----
-
-### Sales Trend Analysis
-![Sales Trend Dashboard](Dashboard_Screenshots/Sales_Trend_Dashboard.png)
-
-Analyzes revenue and profit trends by month, year, quarter, and day of the week to identify seasonality and performance patterns.
-
----
-
-### Product Analysis (Top & Bottom Products)
-![Product Analysis Dashboard](Dashboard_Screenshots/Product_Analysis_Dashboard.png)
-
-Identifies the top 5 and bottom 5 products based on revenue to support inventory and product strategy decisions.
 
 ---
 
