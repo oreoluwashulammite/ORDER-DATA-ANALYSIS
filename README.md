@@ -1,4 +1,4 @@
-# ORDER-DATA-ANALYSIS
+# ORDER DATA ANALYSIS
 This project analyzes order data to understand sales performance, product behavior, and business trends. Using Microsoft Excel, pivot tables, and dashboards, the analysis provides insights that support better decision-making in sales, inventory management, and business strategy.
 
 ### Table of Contents
